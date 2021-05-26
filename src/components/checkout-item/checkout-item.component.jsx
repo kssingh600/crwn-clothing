@@ -30,4 +30,4 @@ const mapDispatchToProps = dispatch => ({
     removeItem: item => dispatch(removeItem(item))
 });
 
-export default connect(null, mapDispatchToProps)(CheckoutItem) ;
+export default connect(null, mapDispatchToProps)(CheckoutItem);
