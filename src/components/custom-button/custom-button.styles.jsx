@@ -15,7 +15,7 @@ const buttonStyles = css`
     }
 `;
 
-export const invertedButtonStyles = css`
+const invertedButtonStyles = css`
 
     background-color: white;
     color: black;
@@ -29,7 +29,7 @@ export const invertedButtonStyles = css`
 
 `;
 
-export const googleSignInStyles = css`
+const googleSignInStyles = css`
 
     background-color: #4285f4 ;
     color: white ;
